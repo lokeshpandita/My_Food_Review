@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title=""
+        android:icon="@drawable/ic_baseline_power_settings_new_24"
+        app:showAsAction="ifRoom"
+        android:id="@+id/log"/>
+    <item
+        android:title="About"
+        android:id="@+id/ab"/>
+    <item
+        android:title="List All Record"
+        android:id="@+id/lst"/>
+</menu>
